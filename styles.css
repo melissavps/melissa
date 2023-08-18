@@ -1,0 +1,16 @@
+body{
+    background-color:aqua;
+}
+
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+h1:hover {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+
+}
